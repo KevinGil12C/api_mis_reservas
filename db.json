@@ -10,6 +10,8 @@
       "reservas": [
         {
           "no_reserva": "RES-2023-001",
+          "destino": "París, Francia",
+          "fecha_de_viaje": "2023-07-10",
           "total_pagar": 450.00,
           "pagado": 300.00,
           "resto": 150.00,
@@ -18,6 +20,8 @@
         },
         {
           "no_reserva": "RES-2023-012",
+          "destino": "Roma, Italia",
+          "fecha_de_viaje": "2023-08-05",
           "total_pagar": 200.00,
           "pagado": 200.00,
           "resto": 0.00,
@@ -36,6 +40,8 @@
       "reservas": [
         {
           "no_reserva": "RES-2023-005",
+          "destino": "Cancún, México",
+          "fecha_de_viaje": "2023-09-15",
           "total_pagar": 320.50,
           "pagado": 320.50,
           "resto": 0.00,
@@ -54,6 +60,8 @@
       "reservas": [
         {
           "no_reserva": "RES-2023-008",
+          "destino": "Nueva York, USA",
+          "fecha_de_viaje": "2023-10-22",
           "total_pagar": 600.00,
           "pagado": 200.00,
           "resto": 400.00,
@@ -62,6 +70,8 @@
         },
         {
           "no_reserva": "RES-2023-009",
+          "destino": "Tokio, Japón",
+          "fecha_de_viaje": "2023-11-30",
           "total_pagar": 150.00,
           "pagado": 150.00,
           "resto": 0.00,
@@ -70,6 +80,8 @@
         },
         {
           "no_reserva": "RES-2023-015",
+          "destino": "Londres, Reino Unido",
+          "fecha_de_viaje": "2023-12-18",
           "total_pagar": 275.75,
           "pagado": 0.00,
           "resto": 275.75,
