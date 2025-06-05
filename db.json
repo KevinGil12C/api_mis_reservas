@@ -1,82 +1,82 @@
 {
-  "usuarios":[
-  {
-    "id": 1,
-    "nombre": "Juan",
-    "apellidos": "Pérez García",
-    "telefono": "+34 600 123 456",
-    "correo": "juan.perez@example.com",
-    "asociacion": "Premium",
-    "reservas": [
-      {
-        "no_reserva": "RES-2023-001",
-        "total_pagar": 450.00,
-        "pagado": 300.00,
-        "resto": 150.00,
-        "fecha": "2023-05-15",
-        "estado": "pendiente"
-      },
-      {
-        "no_reserva": "RES-2023-012",
-        "total_pagar": 200.00,
-        "pagado": 200.00,
-        "resto": 0.00,
-        "fecha": "2023-06-20",
-        "estado": "completada"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "nombre": "María",
-    "apellidos": "López Martínez",
-    "telefono": "+34 699 987 654",
-    "correo": "maria.lopez@example.com",
-    "asociacion": "Standard",
-    "reservas": [
-      {
-        "no_reserva": "RES-2023-005",
-        "total_pagar": 320.50,
-        "pagado": 320.50,
-        "resto": 0.00,
-        "fecha": "2023-05-10",
-        "estado": "completada"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "nombre": "Carlos",
-    "apellidos": "González Sánchez",
-    "telefono": "+34 677 555 123",
-    "correo": "carlos.gonzalez@example.com",
-    "asociacion": "VIP",
-    "reservas": [
-      {
-        "no_reserva": "RES-2023-008",
-        "total_pagar": 600.00,
-        "pagado": 200.00,
-        "resto": 400.00,
-        "fecha": "2023-06-01",
-        "estado": "pendiente"
-      },
-      {
-        "no_reserva": "RES-2023-009",
-        "total_pagar": 150.00,
-        "pagado": 150.00,
-        "resto": 0.00,
-        "fecha": "2023-06-05",
-        "estado": "completada"
-      },
-      {
-        "no_reserva": "RES-2023-015",
-        "total_pagar": 275.75,
-        "pagado": 0.00,
-        "resto": 275.75,
-        "fecha": "2023-06-18",
-        "estado": "pendiente"
-      }
-    ]
-  }
-]
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellidos": "Pérez García",
+      "telefono": "7221595250",
+      "correo": "juan.perez@example.com",
+      "asociacion": "Premium",
+      "reservas": [
+        {
+          "no_reserva": "RES-2023-001",
+          "total_pagar": 450.00,
+          "pagado": 300.00,
+          "resto": 150.00,
+          "fecha": "2023-05-15",
+          "estado": "pendiente"
+        },
+        {
+          "no_reserva": "RES-2023-012",
+          "total_pagar": 200.00,
+          "pagado": 200.00,
+          "resto": 0.00,
+          "fecha": "2023-06-20",
+          "estado": "completada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellidos": "López Martínez",
+      "telefono": "7229876543",
+      "correo": "maria.lopez@example.com",
+      "asociacion": "Standard",
+      "reservas": [
+        {
+          "no_reserva": "RES-2023-005",
+          "total_pagar": 320.50,
+          "pagado": 320.50,
+          "resto": 0.00,
+          "fecha": "2023-05-10",
+          "estado": "completada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellidos": "González Sánchez",
+      "telefono": "7225551234",
+      "correo": "carlos.gonzalez@example.com",
+      "asociacion": "VIP",
+      "reservas": [
+        {
+          "no_reserva": "RES-2023-008",
+          "total_pagar": 600.00,
+          "pagado": 200.00,
+          "resto": 400.00,
+          "fecha": "2023-06-01",
+          "estado": "pendiente"
+        },
+        {
+          "no_reserva": "RES-2023-009",
+          "total_pagar": 150.00,
+          "pagado": 150.00,
+          "resto": 0.00,
+          "fecha": "2023-06-05",
+          "estado": "completada"
+        },
+        {
+          "no_reserva": "RES-2023-015",
+          "total_pagar": 275.75,
+          "pagado": 0.00,
+          "resto": 275.75,
+          "fecha": "2023-06-18",
+          "estado": "pendiente"
+        }
+      ]
+    }
+  ]
 }
