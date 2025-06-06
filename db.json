@@ -15,6 +15,7 @@
           "id": 1,
           "name": "Juan",
           "lastname": "Pérez García",
+          "phone": "7221595250",
           "account_status_pdf": "{{host}}/pdf/contrato-juan-perez.pdf",
           "cupon": "{{host}}/pdf/cupon-juan-perez.pdf"
         }
@@ -35,6 +36,7 @@
           "id": 1,
           "name": "Juan",
           "lastname": "Pérez García",
+          "phone": "7221595250",
           "account_status_pdf": "{{host}}/pdf/contrato-juan-perez.pdf",
           "cupon": "{{host}}/pdf/cupon-juan-perez.pdf"
         }
@@ -55,6 +57,7 @@
           "id": 2,
           "name": "María",
           "lastname": "López Martínez",
+          "phone": "7229876543",
           "account_status_pdf": "{{host}}/pdf/contrato-maria-lopez.pdf",
           "cupon": "{{host}}/pdf/cupon-maria-lopez.pdf"
         }
@@ -75,6 +78,7 @@
           "id": 3,
           "name": "Carlos",
           "lastname": "González Sánchez",
+          "phone": "7225551234",
           "account_status_pdf": "{{host}}/pdf/contrato-carlos-gonzalez.pdf",
           "cupon": "{{host}}/pdf/cupon-carlos-gonzalez.pdf"
         }
@@ -95,6 +99,7 @@
           "id": 3,
           "name": "Carlos",
           "lastname": "González Sánchez",
+          "phone": "7225551234",
           "account_status_pdf": "{{host}}/pdf/contrato-carlos-gonzalez.pdf",
           "cupon": "{{host}}/pdf/cupon-carlos-gonzalez.pdf"
         }
@@ -115,6 +120,7 @@
           "id": 3,
           "name": "Carlos",
           "lastname": "González Sánchez",
+          "phone": "7225551234",
           "account_status_pdf": "{{host}}/pdf/contrato-carlos-gonzalez.pdf",
           "cupon": "{{host}}/pdf/cupon-carlos-gonzalez.pdf"
         }
